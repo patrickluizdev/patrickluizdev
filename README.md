@@ -30,7 +30,7 @@
 
   
   
-<h4> Sou completamente acessivel e aceito sugestões para meu aprimoramento, para entrar em contato comigo Acesse minhas Redes Sociais 👇🏻
+<h4 align="center"> Sou completamente acessivel e aceito sugestões para meu aprimoramento, para entrar em contato comigo Acesse minhas Redes Sociais <BR>👇🏻 </h4>
    
   <div align="center"> 
     <a href="https://instagram.com/patricklduque" target="_blank">
