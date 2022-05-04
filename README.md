@@ -9,13 +9,13 @@
 ##### 🚀 *__Espero que tenhamos oportunidades de trabalharmos juntos no futuro!__* 🚀
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/patrickluizjf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickluizjf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickluizjf&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
- ##### Sou completamente acessivel e aceito sugestões para meu aprimoramento, para entrar em contato comigo Acesse minhas Redes Sociais ou [__veja meu currículo__](https://drive.google.com/file/d/1ridUFYiyoRDJApXHXZXlR37dmOQBUE4E/view?usp=sharing)
+ ##### Sou completamente acessivel e aceito sugestões para meu aprimoramento, para entrar em contato comigo Acesse minhas Redes Sociais
   
   
   <div align="center"> 
