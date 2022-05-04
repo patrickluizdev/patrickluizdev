@@ -39,4 +39,6 @@
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
   </div>
+  
+  (https://raw.githubusercontent.com/patrickluizjf/patrickluizjf/main/.github/workflows/logo_transparent.png)
 
