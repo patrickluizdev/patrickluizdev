@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickluizjf&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
- ##### 💬 *Sou completamente acessivel e aceito sugestões para meu aprimoramento, para entrar em contato comigo __Acesse minhas Redes Sociais__ ou [__veja meu currículo__](https://drive.google.com/file/d/1ridUFYiyoRDJApXHXZXlR37dmOQBUE4E/view?usp=sharing)*
+ ##### Sou completamente acessivel e aceito sugestões para meu aprimoramento, para entrar em contato comigo Acesse minhas Redes Sociais ou [__veja meu currículo__](https://drive.google.com/file/d/1ridUFYiyoRDJApXHXZXlR37dmOQBUE4E/view?usp=sharing)
   <div> 
   <a href="https://instagram.com/patricklduque" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:patrickluizjf@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
