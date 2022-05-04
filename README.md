@@ -40,5 +40,4 @@
     </a>
   </div>
   
-  (https://raw.githubusercontent.com/patrickluizjf/patrickluizjf/main/.github/workflows/logo_transparent.png)
 
