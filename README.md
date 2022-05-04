@@ -11,13 +11,22 @@
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickluizjf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickluizjf&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
  ##### Sou completamente acessivel e aceito sugestões para meu aprimoramento, para entrar em contato comigo Acesse minhas Redes Sociais ou [__veja meu currículo__](https://drive.google.com/file/d/1ridUFYiyoRDJApXHXZXlR37dmOQBUE4E/view?usp=sharing)
-  <div> 
-  <a href="https://instagram.com/patricklduque" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:patrickluizjf@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/patrick-luiz-716893110/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  
+  <div align="center"> 
+    <a href="https://instagram.com/patricklduque" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href = "mailto:patrickluizjf@hotmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a> 
+    <a href="https://www.linkedin.com/in/patrick-luiz-716893110/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
   </div>
 
