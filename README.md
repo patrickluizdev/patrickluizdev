@@ -10,3 +10,6 @@
 ##### 🚀 *__Espero que tenhamos oportunidades de trabalharmos juntos no futuro!__* 🚀
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickluizjf&show_icons=true&theme=radical)
+
+
