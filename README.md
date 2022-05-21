@@ -42,4 +42,38 @@
     </a>
   </div>
   
+  <details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
+const patrickLuiz = {
+    personal: {
+        fullName: 'Patrick Luiz',
+        birthDate: '1997-01-03',
+        interests: [ 'language learning', 'technology, 'games', 'engineering', 'movie', 'anime', 'music'],
+        motivation: [
+            'Helping society to coexist with harmony',
+            'Making life easier and smarter through technology',
+        ],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['React'],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['sass', 'styled-components', 'Bootstrap'],
+            },
+            backEnd: {
+                Javascript: [],
+                PHP: [],
+            },
+            architecture: ['Single Page Applications', 'Domain Driven Design', 'Feature First', 'EC2', 'networks'],
+        },
+    }
+}
+```
+  </div>
+</details>
+  
 
