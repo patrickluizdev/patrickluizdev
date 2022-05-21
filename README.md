@@ -68,7 +68,7 @@ const patrickLuiz = {
                 Javascript: [],
                 PHP: [],
             },
-            architecture: ['Single Page Applications', 'Domain Driven Design', 'Feature First', 'EC2', 'networks'],
+            architecture: ['Single Page Applications', 'EC2', 'Networks'],
         },
     }
 }
