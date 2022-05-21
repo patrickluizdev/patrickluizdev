@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-### Ola! Venha conhecer um pouco do meu trabalho, seja bem vindo ao meu github 👋
+### Ola! Venha conhecer um pouco do meu trabalho, seja bem vindo ao meu github 
 
 #### 💪 *Atualmente Sou 3º Sargento do Exercito Brasileiro*
 #### 🎉  *Formado em Tecnologo em Análise e Desenvolvimentos de Sistemas, Pós Graduado em Segurança da Informação e Psicopedagogia*
