@@ -75,5 +75,11 @@ const patrickLuiz = {
 ```
   </div>
 </details>
-  
+
+###  Profile Views
+<p align="center">
+
+
+![Visitor Count](https://profile-counter.glitch.me/{patrickluizdev}/count.svg)
+</p>
 
