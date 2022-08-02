@@ -4,9 +4,7 @@
 
 #### 💪 *Atualmente Sou 3º Sargento do Exercito Brasileiro*
 #### 🎉  *Formado em Tecnologo em Análise e Desenvolvimentos de Sistemas, Pós Graduado em Segurança da Informação e Psicopedagogia*
-#### 📌 *Estudo Front-End voltado ao Full-Stak* 
-#### 🔌 *Sou Apaixonado por Redes e Eletrônica, possuo Curso Técnico em Eletromecânica e as Certificações da SISCO CCNAv7 (Redes) e CyberSecurity* 👈🏻
-#### 🚀 *Procuro migrar minha carreira para a área de Tecnologia* 
+#### 🔌 *Sou Apaixonado por Redes e Eletrônica* 👈🏻
 #### 😄 *Agradeço a Atenção !!* 
 #### 🚀 *__Espero que tenhamos oportunidades de trabalharmos juntos no futuro!__* 🚀
   
