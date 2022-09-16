@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iuricode/iuricode/68eb49e1f4154ebd74a45a23915c87537d492088/ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
+<img src="https://github.com/patrickluizdev/patrickluizdev/blob/main/.github/workflows/img/ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo code">
 </p>
   
   
