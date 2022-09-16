@@ -69,7 +69,7 @@ const patrickLuiz = {
             backEnd: {
                 Javascript: [],
                 PHP: [],
-                Java [].
+                Java [],
                 Python [],
             },
             architecture: ['Single Page Applications', 'EC2', 'Networks'],
