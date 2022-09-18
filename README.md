@@ -9,7 +9,8 @@
 ### Hi, seja bem vindo ao meu github 
 
 ### About me:
-> Atualmente com aproximadamente 10 anos de experiência profissional sendo mais de 6 anos como militar do Exercito Brasileiro pude desenvolver atributos os quais me evoluíram como indivíduo e profissional, sou formado em Tecnólogo em Análise e Desenvolvimentos de Sistemas, Pós Graduado em Segurança da Informação e MBA em Gestão de Processos.
+> Atualmente com aproximadamente 10 anos de experiência profissional sendo mais de 6 anos como militar do Exercito Brasileiro pude desenvolver atributos os quais me evoluíram como in
+íduo e profissional, sou formado em Tecnólogo em Análise e Desenvolvimentos de Sistemas, Pós Graduado em Segurança da Informação e MBA em Gestão de Processos.
 
 ### About me Motivation:
 > Estou migrando meus objetivos profissionais para a área de DEVOPS, porém de identifico bem como Desenvolvedor em diversas linguagens, trabalho bem com documentações e boas praticas oque facilita muito minha adaptação, sou apaixonado por Eletrônica e Cybersecurity, aprendizado é meu hobby.
@@ -72,7 +73,7 @@ const patrickLuiz = {
                 Java [],
                 Python [],
             },
-            architecture: ['Single Page Applications', 'EC2', 'Networks'],
+            architecture: ['#!/bin/bash', 'Single Page Applications', 'EC2', 'Networks'],
         },
     }
 }
