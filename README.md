@@ -12,7 +12,7 @@
 > Atualmente com mais 11 anos de experiência profissional sendo mais de 7 anos como militar do Exercito Brasileiro pude desenvolver atributos os quais me evoluíram como indivíduo e profissional, sou formado em Tecnólogo em Análise e Desenvolvimentos de Sistemas, Pós Graduado em Segurança da Informação e MBA em Gestão de Processos.
 
 ### About me Motivation:
-> Estou migrando meus objetivos profissionais para a área de DEVOPS, porém de identifico bem como Desenvolvedor em diversas linguagens, trabalho bem com documentações e boas praticas oque facilita muito minha adaptação, sou apaixonado por Eletrônica e Cybersecurity, conhecer e explorar novas Linguagens e Frameworks é meu hobby.
+> Estou migrando meus objetivos profissionais para a área de DEVOPS, porém de identifico como Desenvolvedor em diversas linguagens, trabalho bem com documentações e boas praticas oque facilita muito minha adaptação, sou apaixonado por Eletrônica e Cybersecurity, conhecer e explorar novas Linguagens e Frameworks é meu hobby.
 
 #### 🚀 *__Espero que tenhamos oportunidades de trabalharmos juntos no futuro!__* 🚀
 
