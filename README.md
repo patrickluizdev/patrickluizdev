@@ -30,7 +30,7 @@
 </p>
 
 # 
- 
+<!--
   <details>
   <summary> More about me</summary>
 <div align="left">
@@ -49,7 +49,7 @@ const patrickLuiz = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['React'],
+                Javascript: ['Node.js, React, Vue.js'],
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['Sass', 'styled-components', 'Bootstrap'],
             },
@@ -66,6 +66,6 @@ const patrickLuiz = {
 ```
   </div>
 </details>
-  
+ --> 
   
 
