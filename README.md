@@ -14,23 +14,6 @@
 ### About me Motivation:
 > Estou migrando meus objetivos profissionais para Fullcycle, trabalho bem com documentações e boas praticas oque facilita muito minha adaptação, sou apaixonado por Eletrônica e Cybersecurity, conhecer e explorar novas Linguagens e Frameworks é meu hobby.
 
-#### 🚀 *__Espero que tenhamos oportunidades de trabalharmos juntos no futuro!__* 🚀
-
-#### Acompanhe meus conteúdos:
-
-<p align="left">
-  <a href="https://www.instagram.com/patricklduque/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/patricklduque"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/patricklduque" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/patricklduque"/>
-  </a>
- 
-</p>
-
-# 
-
 
 ## 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
@@ -54,6 +37,27 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=Shell)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)
+
+
+#### 🚀 *__Espero que tenhamos oportunidades de trabalharmos juntos no futuro!__* 🚀
+
+#### Acompanhe meus conteúdos:
+
+<p align="left">
+  <a href="https://www.instagram.com/patricklduque/" alt="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/patricklduque"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/patricklduque" alt="Linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/patricklduque"/>
+  </a>
+ 
+</p>
+
+# 
+
+
+
 
 
 
