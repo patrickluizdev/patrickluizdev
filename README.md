@@ -24,6 +24,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Strapi](https://img.shields.io/badge/-Strapi-3349FF?style=flat&logo=Strapi)
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
