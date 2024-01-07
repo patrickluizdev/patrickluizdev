@@ -17,28 +17,30 @@
 
 
 ## 🛠 &nbsp;Tech Stack
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)
+![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=Shell)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypesScript-05122A?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress)
 ![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=Strapi)
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
-![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=Shell)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)
+![GitHub](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github)
+
 
 
 #### 🚀 *__Espero que tenhamos oportunidades de trabalharmos juntos no futuro!__* 🚀
