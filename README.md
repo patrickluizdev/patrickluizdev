@@ -1,4 +1,4 @@
-<a href="https://patrickluiz.tech/">
+<a href="https://patrickluiz.tech/" target="_blank">
 <img src="https://github.com/patrickluizdev/patrickluizdev/blob/main/.github/workflows/img/ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo code">
 </a>
   
