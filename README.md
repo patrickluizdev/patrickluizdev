@@ -87,7 +87,7 @@ const patrickLuiz = {
     technical: {
         technologies: {
             development: {
-                Javascript: ['Node.js', 'React', 'Vue.js', 'Typescript'],
+                Javascript: ['Typescript', 'Node.js', 'React', 'Next.js', 'Vue.js'],
                 HTML: ['HTML5', 'Semantic HTML', 'Accessibility'],
                 CSS: ['Sass', 'Styled Components', 'Bootstrap', 'Tailwind', 'Perfect Pixel'],
                 PHP: ['Wordpress'],
