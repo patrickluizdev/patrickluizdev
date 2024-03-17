@@ -70,14 +70,14 @@ const patrickLuiz = {
         fullName: 'Patrick Luiz',
         birthDate: '1997-01-03',
         interests: [
-            'language learning',
+            'Language Learning',
             'Open Source Communit',
-            'technology',
-            'games',
-            'engineering',
-            'movie',
-            'anime',
-            'music'
+            'Technology',
+            'Games',
+            'Engineering',
+            'Movie',
+            'Anime',
+            'Music'
         ],
         motivation: [
             'Helping society to coexist with harmony',
@@ -86,14 +86,14 @@ const patrickLuiz = {
     },
     technical: {
         technologies: {
-            Development: {
+            development: {
                 Javascript: ['Node.js', 'React', 'Vue.js', 'Typescript'],
                 HTML: ['HTML5', 'Semantic HTML', 'Accessibility'],
                 CSS: ['Sass', 'Styled Components', 'Bootstrap', 'Tailwind', 'Perfect Pixel'],
                 PHP: ['Wordpress'],
                 Docker: ['Docker Swarm', 'StandAlone', 'Multistagebuild', 'Docker Compose', 'Network Driver']
             },
-            Skills: {
+            skills: {
                 Database: ['MySQL', 'PostgreSQL', 'MongoDB', 'Redis'],
                 Cloud: ['AWS', 'Azure', 'Digital Ocean', 'Clusterização', 'Proxy', 'CDN', 'DNS', 'Network'],
                 Management: ['Portainer', 'Plesk', 'AAPainel', 'Cpainel', 'CyberPainel', 'Softalocus', 'Nginx Proxy Manage', 'Traefik', 'Minio S3 Storage', 'Network', 'Firewall'],
