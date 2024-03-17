@@ -71,6 +71,7 @@ const patrickLuiz = {
         birthDate: '1997-01-03',
         interests: [
             'language learning',
+            'Open Source Communit',
             'technology',
             'games',
             'engineering',
