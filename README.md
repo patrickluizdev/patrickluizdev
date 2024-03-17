@@ -2,10 +2,7 @@
 <img src="https://github.com/patrickluizdev/patrickluizdev/blob/main/.github/workflows/img/ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo code">
 </a>
   
-  
-  
-  
-  ## Hello World 
+## Hello World 
 
 ### Hi, seja bem vindo ao meu github 
 
@@ -48,17 +45,12 @@
 #### Acompanhe meus conteúdos:
 
 <p align="left">
-  <a href="https://www.instagram.com/patricklduque/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/>
-  </a>
-  
   <a href="https://www.linkedin.com/in/patricklduque" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF"/>
   </a>
     <a href="https://patrickluiz.tech" alt="Website" target="_blank">
     <img src="https://img.shields.io/badge/-Website-6610F2?style=for-the-badge&logo=similarweb&logoColor=FFFFFF">
   </a>
-
   <a href="https://hub.docker.com/u/jatabara" alt="hub" target="_blank">
     <img src="https://img.shields.io/badge/-Docker Hub-6610F2?style=for-the-badge&logo=Docker&logoColor=FFFFFF">
   </a>
@@ -68,13 +60,6 @@
 # 
 
 
-
-
-
-
-
-
-<!--
   <details>
   <summary> More about me</summary>
 <div align="left">
@@ -84,32 +69,41 @@ const patrickLuiz = {
     personal: {
         fullName: 'Patrick Luiz',
         birthDate: '1997-01-03',
-        interests: [ 'language learning', 'technology', 'games', 'engineering', 'movie', 'anime', 'music'],
+        interests: [
+            'language learning',
+            'technology',
+            'games',
+            'engineering',
+            'movie',
+            'anime',
+            'music'
+        ],
         motivation: [
             'Helping society to coexist with harmony',
-            'Making life easier and smarter through technology',
-        ],
+            'Making life easier and smarter through technology'
+        ]
     },
     technical: {
         technologies: {
-            frontEnd: {
-                Javascript: ['Node.js, React, Vue.js'],
-                HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['Sass', 'styled-components', 'Bootstrap'],
+            Development: {
+                Javascript: ['Node.js', 'React', 'Vue.js', 'Typescript'],
+                HTML: ['HTML5', 'Semantic HTML', 'Accessibility'],
+                CSS: ['Sass', 'Styled Components', 'Bootstrap', 'Tailwind', 'Perfect Pixel'],
+                PHP: ['Wordpress'],
+                Docker: ['Docker Swarm', 'StandAlone', 'Multistagebuild', 'Docker Compose', 'Network Driver']
             },
-            backEnd: {
-                Javascript: [],
-                PHP: [],
-                Java [],
-                Python [],
-            },
-            architecture: ['#!/bin/bash', 'Single Page Applications', 'EC2', 'Networks'],
-        },
+            Skills: {
+                Database: ['MySQL', 'PostgreSQL', 'MongoDB', 'Redis'],
+                Cloud: ['AWS', 'Azure', 'Digital Ocean', 'Clusterização', 'Proxy', 'CDN', 'DNS', 'Network'],
+                Management: ['Portainer', 'Plesk', 'AAPainel', 'Cpainel', 'CyberPainel', 'Softalocus', 'Nginx Proxy Manage', 'Traefik', 'Minio S3 Storage', 'Network', 'Firewall'],
+                Linux: ['Shell', 'User Permissions', 'Networks', 'Resource Management']
+            }
+        }
     }
-}
+};
+
 ```
   </div>
 </details>
- --> 
   
 
