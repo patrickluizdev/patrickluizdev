@@ -14,29 +14,42 @@
 
 
 ## 🛠 &nbsp;Tech Stack
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=Shell)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)
+![Traefik](https://img.shields.io/badge/-Traefik-05122A?style=flat&logo=traefikproxy)
+![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=Postgresql)
+![SupaBase](https://img.shields.io/badge/-SupaBase-05122A?style=flat&logo=supabase)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypesScript-05122A?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
-![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress)
-![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=Strapi)
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![GitHub](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github)
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress)
+![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=Strapi)
+![Hasura](https://img.shields.io/badge/-Hasura-05122A?style=flat&logo=hasura)
+![N8N](https://img.shields.io/badge/-N8N-05122A?style=flat&logo=n8n)
+
+
+
+
+
 
 
 
