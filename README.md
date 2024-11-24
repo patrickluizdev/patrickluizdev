@@ -7,7 +7,7 @@
 ### Hi, seja bem vindo ao meu github 
 
 ### About me:
-> Atualmente com mais de 12 anos de experiência profissional com competencias diversificada em diversos setores pude desenvolver atributos os quais me evoluíram como indivíduo e profissional, sou formado em Tecnólogo em Análise e Desenvolvimentos de Sistemas, Pós Graduado em Segurança da Informação e MBA em Gestão de Processos.
+> Com mais de 12 anos de experiência profissional em diversos setores, desenvolvi uma ampla gama de competências que contribuíram significativamente para minha evolução como indivíduo e como profissional. Sou formado em Análise e Desenvolvimento de Sistemas, pós-graduado em Segurança da Informação e possuo um MBA em Gestão de Processos. Essa trajetória me proporcionou conhecimentos técnicos e gerenciais, permitindo que eu atue com excelência em diferentes áreas e desafios.
 
 ### About me Motivation:
 > Estou focado em Arquitetura de Soluções e Desenvolvimento Web, acreito que problemas complexos podem ser simplificados ou até suprimidos quando se foca em soluções específicas, trabalho bem com documentações e boas praticas oque facilita muito minha adaptação, sou apaixonado por Eletrônica e Cybersecurity, conhecer e explorar novas Linguagens e Frameworks é meu hobby.
